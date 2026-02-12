@@ -1,0 +1,5 @@
+{
+  "name": "Akıllı PDF Sıkıştırıcı",
+  "description": "PDF dosyalarını sunucuya yüklemeden doğrudan tarayıcınızda güvenli bir şekilde küçültün.",
+  "requestFramePermissions": []
+}
